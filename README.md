@@ -1,5 +1,4 @@
 ---
-title: Ty Darnell
-tagline: Biostatistics Masters Student at UNC
-description: Homepage
+Ty Darnell
+Biostatistics Masters Student at UNC
 ---
