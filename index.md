@@ -5,4 +5,4 @@ description: Homepage
 ---
 
 # Links
-
+<embed src="https://tydarnell.github.io/cheatsheet2.pdf" type="application/pdf" />
