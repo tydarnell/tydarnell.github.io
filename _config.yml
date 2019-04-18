@@ -1,3 +1,10 @@
+# Jekyll configuration
+
+name: Ty Darnell
+url: "tydarnell.github.io"
+
+# Build Settings
+
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
