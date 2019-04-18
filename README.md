@@ -1,4 +1,4 @@
 ---
-:Ty Darnell
-:Biostatistics Masters Student at UNC
+title:Ty Darnell
+description:Biostatistics Masters Student at UNC
 ---
