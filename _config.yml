@@ -7,7 +7,7 @@ url: "tydarnell.github.io"
 
 # Build Settings
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
 relative_links:
