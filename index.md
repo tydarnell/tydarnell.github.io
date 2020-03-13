@@ -1,6 +1,6 @@
 
 
 # Links
-[Resume](https://tydarnell.github.io/resume.pdf)
+[Resume](https://tydarnell.github.io/TyDarnell-Resume.pdf)
 
 [Github](https://github.com/tydarnell)
