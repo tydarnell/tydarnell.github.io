@@ -1,4 +1,4 @@
-<img src="ty/html.jpg" alt="HTML Letters" width="317" height="218">
+<img src="https://tydarnell.github.io/ty/html.jpg" width="317" height="218">
 
 ## R Packages
 [GeneticMediation](https://tydarnell.github.io/GeneticMediation/)
