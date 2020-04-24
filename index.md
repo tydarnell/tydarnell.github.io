@@ -1,7 +1,7 @@
-# R Packages
+## R Packages
 [GeneticMediation](https://tydarnell.github.io/GeneticMediation/)
 
-# Links
+## Links
 [Resume](https://tydarnell.github.io/TyDarnell-Resume.pdf)
 
 [Github](https://github.com/tydarnell)
