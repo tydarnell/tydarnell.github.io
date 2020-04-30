@@ -6,6 +6,16 @@ description: |
 author:
   - name: Ty Darnell
     url: "tydarnell.github.io"
+navbar:
+  title: "Ty Darnell""
+  left:
+    - text: "Resume"
+      href: TyDarnell-Resume.pdf
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/tydarnell
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/tydarnell
 
 # Build Settings
 
