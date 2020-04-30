@@ -1,20 +1,29 @@
+---
+output: github_document
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
 
 # tydarnell.github.io
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 ## R Packages
-
 [GeneticMediation](https://tydarnell.github.io/GeneticMediation/)
 
 ## Links
-
 [Resume](https://tydarnell.github.io/TyDarnell-Resume.pdf)
 
 [Github](https://github.com/tydarnell)
 
 [LinkedIn](https://www.linkedin.com/in/tydarnell)
+
+
