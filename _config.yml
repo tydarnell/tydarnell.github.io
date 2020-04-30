@@ -1,9 +1,11 @@
 # Jekyll configuration
 
 title: Ty Darnell
-description: MS Biostatistics UNC May 2020
-name: Ty Darnell
-url: "tydarnell.github.io"
+description: |
+  MS Biostatistics UNC May 2020
+author:
+  - name: Ty Darnell
+    url: "tydarnell.github.io"
 
 # Build Settings
 
