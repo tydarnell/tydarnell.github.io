@@ -7,10 +7,10 @@ author:
   - name: Ty Darnell
     url: "tydarnell.github.io"
 navbar:
-  title: "Ty Darnell""
+  title: "Ty Darnell"
   left:
     - text: "Resume"
-      href: TyDarnell-Resume.pdf
+      href: https://tydarnell.github.io/TyDarnell-Resume.pdf
   right:
     - icon: fa-github fa-lg
       href: http://github.com/tydarnell
@@ -20,17 +20,3 @@ navbar:
 # Build Settings
 
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-  - CONTRIBUTING.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
