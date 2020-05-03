@@ -1,4 +1,5 @@
 name: "Ty Darnell"
+output_dir: "."
 navbar:
   title: "Ty Darnell"
   left:
