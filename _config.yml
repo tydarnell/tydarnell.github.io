@@ -17,6 +17,4 @@ navbar:
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/tydarnell
 
-# Build Settings
 
-theme: jekyll-theme-cayman
