@@ -1,27 +1,15 @@
 ---
-output: github_document
+pagetitle: "Ty Darnell"
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+<link rel="stylesheet" href="styles.css" type="text/css">
 
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
+<img src="images/ty.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-<!-- badges: start -->
-<!-- badges: end -->
+I recently graduated from The University of North Carolina at Chapel Hill with an MS in biostatistics in 2020.
 
-## R Packages
-[GeneticMediation](https://tydarnell.github.io/GeneticMediation/)
+Previously, I taught middle school math for 5 years in a Title I public school in Pittsboro, North Carolina. 
 
-## Links
-[Resume](https://tydarnell.github.io/TyDarnell-Resume.pdf)
+I recieved my teaching degree from Appalachian State University in 2013.
 
-[Github](https://github.com/tydarnell)
-
-[LinkedIn](https://www.linkedin.com/in/tydarnell)
-
-
+My Resume is available [here](files/TyDarnell-Resume.pdf).

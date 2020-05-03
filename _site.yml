@@ -1,0 +1,18 @@
+name: "Ty Darnell"
+navbar:
+  title: "Ty Darnell"
+  left:
+    - icon: fa-home fa-lg
+      href: index.html
+    - text: "GeneticMediation"
+      href: https://tydarnell.github.io/GeneticMediation
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/tydarnell
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/tydarnell
+
+output: 
+  html_document:
+    theme: cerulean
+    css: 'styles.css'
