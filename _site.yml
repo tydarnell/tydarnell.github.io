@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "Ty Darnell"
   left:
-    - text: "GeneticMediation"
-      href: https://tydarnell.github.io/GeneticMediation
+    - text: "Programming"
+      href: Software.html
   right:
     - icon: fa-github fa-lg
       href: http://github.com/tydarnell

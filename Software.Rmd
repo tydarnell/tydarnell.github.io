@@ -1,0 +1,9 @@
+---
+pagetitle: "R Packages"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## R Packages
+
+- [`GeneticMediation`](https://tydarnell.github.io/GeneticMediation), a package of functions for causal mediation analysis of the ROSMAP data set
