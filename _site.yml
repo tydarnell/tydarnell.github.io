@@ -1,5 +1,6 @@
 name: "Ty Darnell"
 output_dir: "."
+site_favicon: favicon.ico
 navbar:
   title: "Ty Darnell"
   left:
