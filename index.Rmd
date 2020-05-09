@@ -4,6 +4,8 @@ pagetitle: "Ty Darnell"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 <img src="images/ty.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 I recently graduated from The University of North Carolina at Chapel Hill with an MS in biostatistics in 2020.
