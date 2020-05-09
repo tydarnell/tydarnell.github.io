@@ -8,6 +8,8 @@ navbar:
     - text: "GeneticMediation"
       href: "https://tydarnell.github.io/GeneticMediation"
   right:
+    - text: Resume
+      href: files/TyDarnell-Resume.pdf
     - icon: fa-github fa-lg
       href: http://github.com/tydarnell
     - icon: fa-linkedin fa-lg
