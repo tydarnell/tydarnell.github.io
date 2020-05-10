@@ -7,7 +7,7 @@ navbar:
     - text: "Programming"
       href: Software.html
     - text: "GeneticMediation"
-      href: "https://tydarnell.github.io/GeneticMediation"
+      href: "http://www.tydarnell.com/GeneticMediation"
   right:
     - text: Resume
       href: files/TyDarnell-Resume.pdf
