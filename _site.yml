@@ -15,6 +15,7 @@ navbar:
       href: http://github.com/tydarnell
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/tydarnell
+google_analytics: UA-164663784-1
 
 output: 
   html_document:
